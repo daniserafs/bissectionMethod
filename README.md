@@ -15,5 +15,5 @@
     7º) Calcular |X1 - X0|. Se |X1 - X0| < 10^-n, Pare e emita a mensagem “A raíz aproximada é X1... Caso contrário, o processo continua, de forma análoga, até que f(Xn) = 0 ou |Xn - Xn-1| < 10^-n.
     8º) .....
     9º) etc...
-    Obs: a) Agrupar os dados em uma tabela. ![Alt text](/image.png)
+    Obs: a) Agrupar os dados em uma tabela.
     b) Plotar o gráfico da função, exibindo a raíz exata, a raíz aproximada, as iterações, etc.
